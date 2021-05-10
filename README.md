@@ -1,5 +1,6 @@
-# malapportionment_shared
-Data and GerryChain code for malapportionment analysis
+# Malapportionment Data
+
+## Data and GerryChain code for malapportionment analysis
 
 Currently this just has some sample outputs of short ReCom chains run on Washington with 2010 and 2015-2019 average ACS population data. The WA_Enacted_ReCom_Test folder has 10k steps from a run starting at the enacted Congressional plan, balanced on the 2010 population, while the other two contain short runs attempting to optimize for both population columns. The output files are: 
 
